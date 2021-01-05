@@ -1,5 +1,5 @@
 # 두 개 뽑아서 더하기
-# 2021. 1. 4
+# 2021. 1. 5
 # KMU FOSCAR ALGORITHM STUDY
 # PROGRAMMERS LEVEL 1
 
