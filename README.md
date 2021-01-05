@@ -15,4 +15,5 @@
 ------------------------------
 #### Week 1
 1. Programmers kakao_crain.py
+2. Programmers two_number_sum.py
 ------------------------------
