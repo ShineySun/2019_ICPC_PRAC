@@ -16,4 +16,7 @@
 #### Week 1
 1. Programmers kakao_crain.py
 2. Programmers two_number_sum.py
+3. not_finish_player.py
+4. practice_test.py
+5. k_number.py
 ------------------------------
