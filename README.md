@@ -6,17 +6,20 @@
 ## 2021 FOSCAR ALGO STUDY
 ------------------------------
 #### Week 2
-1. Backjoon 1436.py
-2. Backjoon 2231.py
-3. Backjoon 2978.py
-4. Backjoon 14888.py
+1. BACKJOON 1436.py
+2. BACKJOON 2231.py
+3. BACKJOON 2978.py
+4. BACKJOON 14888.py
 ------------------------------
 ## 2021 HCI ALGO STUDY
 ------------------------------
 #### Week 1
-1. Programmers kakao_crain.py
-2. Programmers two_number_sum.py
-3. not_finish_player.py
-4. practice_test.py
-5. k_number.py
+1. PROGRAMMERS kakao_crain.py
+2. PROGRAMMERS two_number_sum.py
+3. PROGRAMMERS not_finish_player.py
+4. PROGRAMMERS practice_test.py
+5. PROGRAMMERS k_number.py
+==============================
+#### Week 2
+1. PROGRAMMERS gym_suit.py
 ------------------------------
