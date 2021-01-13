@@ -11,6 +11,12 @@
 3. BACKJOON 2978.py
 4. BACKJOON 14888.py
 ------------------------------
+#### Week 3
+1. BACKJOON 1520.py
+2. BACKJOON 1890.py
+3. BACKJOON 1915_conv.py -> 1915.py
+4. BACKJOON 1937.py
+------------------------------
 ## 2021 HCI ALGO STUDY
 ------------------------------
 #### Week 1
@@ -19,7 +25,7 @@
 3. PROGRAMMERS not_finish_player.py
 4. PROGRAMMERS practice_test.py
 5. PROGRAMMERS k_number.py
-==============================
+------------------------------
 #### Week 2
 1. PROGRAMMERS gym_suit.py
 2. PROGRAMMERS 2016.py
