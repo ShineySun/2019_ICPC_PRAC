@@ -22,4 +22,6 @@
 ==============================
 #### Week 2
 1. PROGRAMMERS gym_suit.py
+2. PROGRAMMERS 2016.py
+3. PROGRAMMERS reverse_ternary.py
 ------------------------------
