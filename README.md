@@ -35,4 +35,5 @@
 2. PROGRAMMERS 2016.py
 3. PROGRAMMERS reverse_ternary.py
 4. PROGRAMMERS mid_str.cpp
+5. PROGRAMMERS repetition_number.cpp
 ------------------------------
