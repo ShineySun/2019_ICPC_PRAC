@@ -22,6 +22,9 @@
 8. BACKJOON 2839.py
 9. BACKJOON 11497.py
 ------------------------------
+#### Week 4
+1. BACKJOON 14889.py
+------------------------------
 ## 2021 HCI ALGO STUDY
 ------------------------------
 #### Week 1
@@ -38,3 +41,6 @@
 4. PROGRAMMERS mid_str.cpp
 5. PROGRAMMERS repetition_number.cpp
 ------------------------------
+#### Week 3
+1. PROGRAMMERS 12910.cpp
+2. PROGRAMMERS 12912.cpp
