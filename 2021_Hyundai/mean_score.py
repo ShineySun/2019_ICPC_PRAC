@@ -20,14 +20,17 @@ N, K = map(int, input().split())
 
 student = list(map(int, input().split()))
 
-sum_score = [0]
-
-for i in range(len(student)):
-    sum_score.append(sum(student[:i+1]))
+# for i in range(len(student)):
+#     sum_score.append(sum(student[:i+1]))
 
 for k in range(K):
     Ai, Bi = map(int, input().split())
 
-    mean = round((sum_score[Bi] - sum_score[Ai-1])/(Bi-Ai+1),2)
+    total = 0
 
-    print(mean)
+    for i in range(Ai-1, Bi):
+        total += student[i]
+
+    total /= (Bi- Ai + 1)
+
+    print("%.2f"%total)
